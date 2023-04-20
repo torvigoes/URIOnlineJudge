@@ -1,0 +1,30 @@
+E:\Coding\URI Online Judge\bin\Debug\net7.0\URI Online Judge.exe
+E:\Coding\URI Online Judge\bin\Debug\net7.0\URI Online Judge.deps.json
+E:\Coding\URI Online Judge\bin\Debug\net7.0\URI Online Judge.runtimeconfig.json
+E:\Coding\URI Online Judge\bin\Debug\net7.0\URI Online Judge.dll
+E:\Coding\URI Online Judge\bin\Debug\net7.0\URI Online Judge.pdb
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.csproj.AssemblyReference.cache
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.AssemblyInfoInputs.cache
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.AssemblyInfo.cs
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.csproj.CoreCompileInputs.cache
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.dll
+E:\Coding\URI Online Judge\obj\Debug\net7.0\refint\URI Online Judge.dll
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.pdb
+E:\Coding\URI Online Judge\obj\Debug\net7.0\URI Online Judge.genruntimeconfig.cache
+E:\Coding\URI Online Judge\obj\Debug\net7.0\ref\URI Online Judge.dll
+E:\Coding\URIOnlineJudge\bin\Debug\net7.0\URI Online Judge.exe
+E:\Coding\URIOnlineJudge\bin\Debug\net7.0\URI Online Judge.deps.json
+E:\Coding\URIOnlineJudge\bin\Debug\net7.0\URI Online Judge.runtimeconfig.json
+E:\Coding\URIOnlineJudge\bin\Debug\net7.0\URI Online Judge.dll
+E:\Coding\URIOnlineJudge\bin\Debug\net7.0\URI Online Judge.pdb
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.csproj.AssemblyReference.cache
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.AssemblyInfoInputs.cache
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.AssemblyInfo.cs
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.csproj.CoreCompileInputs.cache
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.dll
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\refint\URI Online Judge.dll
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.pdb
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\URI Online Judge.genruntimeconfig.cache
+E:\Coding\URIOnlineJudge\obj\Debug\net7.0\ref\URI Online Judge.dll
