@@ -15,7 +15,7 @@ namespace URIOnlineJudge{
             double comissao = vendas * 0.15;
             double salarioTotal = salario + comissao;
 
-		    Console.WriteLine($"TOTAL = R${salarioTotal.ToString("0.00")}");
+		    Console.WriteLine($"TOTAL = R$ {salarioTotal.ToString("0.00")}");
 		}
 	}
 }
