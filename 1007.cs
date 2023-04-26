@@ -4,7 +4,7 @@ using System;
 namespace URIOnlineJudge{
 	class _1007{
 		static void Main(string[] args){
-		    int nf; int ht;
+		    int nf, ht;
 		    double wageHour;
 
 		    nf = Convert.ToInt32(Console.ReadLine());
